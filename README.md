@@ -1,15 +1,6 @@
 # Mini Web Security Scanner
 
-A simple beginner-friendly web security scanner built with Python.
-
-This project helps beginners learn:
-
-* Web reconnaissance
-* HTTP requests
-* Security headers
-* Basic web security concepts
-* Python automation
-
+This project help you detect whether a website uses HTTPS, check important security headers, identify exposed robots.txt...
 ---
 
 # Features
