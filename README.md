@@ -162,8 +162,4 @@ Only scan:
 
 Do not scan websites or systems without permission.
 
----
 
-# Author
-
-Created as a beginner cybersecurity learning project.
