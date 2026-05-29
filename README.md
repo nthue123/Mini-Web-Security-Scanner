@@ -114,31 +114,6 @@ The scanner currently checks for:
 
 ---
 
-# Future Improvements
-
-Planned features:
-
-* HTML report generation
-* JSON export
-* Multithreading
-* Subdomain scanning
-* Directory brute forcing
-* Technology detection
-* Basic vulnerability testing
-
----
-
-# Learning Objectives
-
-This project is designed to help beginners understand:
-
-* HTTP requests and responses
-* Web application security basics
-* Security misconfiguration
-* Reconnaissance techniques
-* Python scripting for security
-
----
 
 # Disclaimer
 
